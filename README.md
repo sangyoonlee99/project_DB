@@ -49,6 +49,9 @@ B2B 해외 거래에서는 신용장(LC)과 계좌이체(TT) 두 가지 결제 �
 ## DB 구조
 <img width="2749" height="1967" alt="erd사진" src="https://github.com/user-attachments/assets/c6d70be3-72a1-4537-92be-7c87577b2794" />
 
+## 비즈니스 쿼리 예시
+
+<img width="1787" height="758" alt="image" src="https://github.com/user-attachments/assets/6661cd66-b7a5-4dae-a1d7-c1a5314b7108" />
 
 
 
