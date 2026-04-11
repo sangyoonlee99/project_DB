@@ -52,6 +52,7 @@ B2B 해외 거래에서는 신용장(LC)과 계좌이체(TT) 두 가지 결제 �
 ## 비즈니스 쿼리 예시
 
 <img width="1787" height="758" alt="image" src="https://github.com/user-attachments/assets/6661cd66-b7a5-4dae-a1d7-c1a5314b7108" />
+<img width="1220" height="804" alt="image" src="https://github.com/user-attachments/assets/e32c2857-512b-40a9-b783-2d29c3c01033" />
 
 
 
