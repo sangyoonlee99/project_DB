@@ -46,8 +46,9 @@ B2B 해외 거래에서는 신용장(LC)과 계좌이체(TT) 두 가지 결제 �
 ---
 
 ## DB 구조
+<img width="2749" height="1967" alt="erd사진" src="https://github.com/user-attachments/assets/c6d70be3-72a1-4537-92be-7c87577b2794" />
 
-> ERD 이미지를 이 위치에 첨부해주세요. (예: `![ERD](./erd.png)`)
+
 
 
 
